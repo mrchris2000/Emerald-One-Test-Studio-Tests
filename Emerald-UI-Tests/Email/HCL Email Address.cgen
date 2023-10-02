@@ -1,0 +1,1 @@
+{"name":"HCL Email Address","version":"0.0.1","categoryId":"dafaff29-0a34-455f-baff-290a34455f8f","parentGenerator":"Function","globalProperties":{"randomDistribution":"false","duplicatesAllowed":"true","blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"function":"\nf(firstname).concat(\".\").concat(f(lastname)).concat(\"@hcl.com\")"}}]}
