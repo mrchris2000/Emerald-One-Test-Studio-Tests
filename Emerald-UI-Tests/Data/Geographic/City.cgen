@@ -1,0 +1,1 @@
+{"name":"City","version":"0.0.1","categoryId":"6541b557-6f9a-4222-81b5-576f9a0222a3","parentGenerator":"Dataset","globalProperties":{"blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"filePath":"Emerald-UI-Tests/Data/Cities.csv","repositoryUrl":"github.com/HCL-TECH-SOFTWARE/Emerald-One-Test-Studio-Tests","column":"City"}}]}

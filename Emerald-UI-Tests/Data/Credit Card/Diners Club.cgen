@@ -1,0 +1,1 @@
+{"name":"Diners Club","version":"0.0.1","categoryId":"7cd32555-10e0-4235-9325-5510e0323509","parentGenerator":"Regex","globalProperties":{"randomDistribution":"false","duplicatesAllowed":"true","blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"regex":"^3(?:0[0-5]|[68][0-9])[0-9]{11}$"}}]}

@@ -1,0 +1,1 @@
+{"name":"Stock Name","version":"0.0.1","categoryId":"988f3602-b061-4014-8f36-02b06190149f","parentGenerator":"Dataset","globalProperties":{"blankPercentage":"0"},"configurations":[{"name":"Stock Name","weightage":100.0,"properties":{"filePath":"Emerald-UI-Tests/Stocks.csv","repositoryUrl":"github.com/HCL-TECH-SOFTWARE/Emerald-One-Test-Studio-Tests","column":"Name"}}]}

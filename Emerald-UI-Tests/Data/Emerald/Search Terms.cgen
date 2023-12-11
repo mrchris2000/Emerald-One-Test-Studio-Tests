@@ -1,0 +1,1 @@
+{"name":"Search Terms","version":"0.0.1","categoryId":"e4a8894e-bf38-4dd9-a889-4ebf38ddd941","parentGenerator":"Dataset","globalProperties":{"blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"filePath":"B2C_913/Datapools/searchterm_oob.csv","repositoryUrl":"github.com/HCL-TECH-SOFTWARE/Emerald-One-Test-Studio-Tests","column":"Column1"}}]}

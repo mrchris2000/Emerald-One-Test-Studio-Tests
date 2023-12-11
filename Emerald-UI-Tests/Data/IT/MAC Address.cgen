@@ -1,0 +1,1 @@
+{"name":"MAC Address","version":"0.0.1","categoryId":"98d88c01-1371-4798-988c-011371879827","parentGenerator":"Regex","globalProperties":{"randomDistribution":"false","duplicatesAllowed":"true","blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"regex":"^[a-fA-F0-9]{2}(:[a-fA-F0-9]{2}){5}$"}}]}
